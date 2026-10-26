@@ -100,7 +100,15 @@ Une feuille de papier sulfurisé glissée entre chaque garde et les pages, le ca
 
 ## Le résultat
 
-Un carnet A5 de 44 pages utiles (les deux pages extérieures servant de gardes), à couverture rigide, réalisé presque entièrement à partir de matériaux de récupération. Il ne reste plus qu'à le remplir de collages.
+Un carnet A5 de 44 pages utiles (les deux pages extérieures servant de gardes), à couverture rigide, réalisé presque entièrement à partir de matériaux de récupération.
+
+![Le carnet terminé, couverture fermée]({{ "/assets/images/carnet-relie/08-carnet-ferme.jpg" | relative_url }})
+
+Le papier kraft confère à la couverture une sobriété qui lui sied bien, et ses fines rayures soulignent le travail fait main. Vu de côté, le dos laisse apparaître l'espace ménagé pour les collages à venir : le bloc y paraît encore à l'aise, comme prévu.
+
+![Le carnet ouvert]({{ "/assets/images/carnet-relie/09-carnet-ouvert.jpg" | relative_url }})
+
+Une fois ouvert, le carnet tient à plat sans qu'il faille le retenir, et l'alternance de pages blanches et quadrillées offre une certaine liberté : les unes pour coller et dessiner, les autres pour écrire ou mettre en page. Il ne reste plus qu'à le remplir de collages.
 
 ## Enseignements
 
