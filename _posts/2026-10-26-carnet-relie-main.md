@@ -100,7 +100,7 @@ Une feuille de papier sulfurisé glissée entre chaque garde et les pages, le ca
 
 ## Le résultat
 
-Un carnet A5 de 44 pages utiles (les deux pages extérieures servant de gardes), à couverture rigide, réalisé presque entièrement à partir de matériaux de récupération. Il ne reste plus qu'à le remplir de collages, et les vieux prospectus publicitaires sont tout désignés pour ouvrir la marche.
+Un carnet A5 de 44 pages utiles (les deux pages extérieures servant de gardes), à couverture rigide, réalisé presque entièrement à partir de matériaux de récupération. Il ne reste plus qu'à le remplir de collages.
 
 ## Enseignements
 
