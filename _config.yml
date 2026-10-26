@@ -1,0 +1,16 @@
+title: upcycling
+description: >-
+  Donner une seconde vie aux matériaux du quotidien : carton, papier, tissu…
+  Projets faits main, étape par étape.
+lang: fr-CH
+author:
+  name: Vicky
+theme: minima
+permalink: /:year/:month/:title/
+
+minima:
+  date_format: "%d.%m.%Y"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
