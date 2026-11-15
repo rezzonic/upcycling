@@ -1,0 +1,9 @@
+---
+# Feuille de style du site : thème minima, sans le bandeau sombre en haut de page
+---
+
+@import "minima";
+
+.site-header {
+  border-top: none;
+}
