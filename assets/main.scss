@@ -1,9 +1,21 @@
 ---
-# Feuille de style du site : thème minima, sans le bandeau sombre en haut de page
+# Feuille de style du site : thème minima, accents verts, sans le bandeau sombre en haut de page
 ---
+
+$brand-color: #3f7d3a;
 
 @import "minima";
 
 .site-header {
   border-top: none;
+  border-bottom: 3px solid $brand-color;
+}
+
+.site-title,
+.site-title:visited {
+  color: $brand-color;
+}
+
+.post-content h2 {
+  color: $brand-color;
 }
